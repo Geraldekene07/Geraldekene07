@@ -1,3 +1,5 @@
+![690770](https://github.com/Geraldekene07/Geraldekene07/assets/131764106/38db94d5-b0a6-4395-b665-ec6756674334)
+
 - 👋 Hi, I’m Gerald Ekene
 - 👀 I’m interested in anything codes 
 - 🌱 I’m currently learning Full-Stack web development 
